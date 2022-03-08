@@ -24,6 +24,11 @@
 		{
 			"Name": "HDRIBackdrop",
 			"Enabled": true
+		},
+		{
+			"Name": "HiSQLite3",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c8c0f3c46971495b8a8d400ec8627caa"
 		}
 	]
 }
